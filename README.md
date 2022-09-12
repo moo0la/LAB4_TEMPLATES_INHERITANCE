@@ -1,4 +1,4 @@
-# LAB4_TEMPLATS_INHERITANCE
+# LAB4_TEMPLATES_INHERITANCE
 
 # Using your previous LAB 3 , do the following :
 - Create a base.html template
